@@ -1,5 +1,6 @@
 
 ## Summary
+
 Tsien et al. have produced a mouse strain CA1-restricted NMDAR1 gene knock out. 
 
  Mutant mice:
@@ -11,33 +12,45 @@ Tsien et al. have produced a mouse strain CA1-restricted NMDAR1 gene knock out.
  Strong support for hypothesis:
  NMDAR-mediated LTP in CA1 is crucially involved in the formation of certain types of memory
 
-
 ## Research background
+
 ### synaptic plasticity and memory
+
 - Hebb: Memory is stored through changes in synaptic strength between neurons.
 - Hebb rule = correlated activity: When the presynaptic and the postsynaptic neurons are active simultaneously, their connections become strengthened.
+
 ### role of NMDARs
+
 - NMDARs are crucial for LTP induction:
     - act as coincidence detectors: require both presynaptic activity (glutamate release) and postsynaptic activity (depolarization that releases Mg<sup>2+ </sup> block) as a condition for channel opening.
 -  When activated, they allow Ca²⁺ influx, triggering biochemical cascades that results in plasticity changes.
 - The induction of LTP requires the activation of NMDARs.
+
 ### previous studies
+
 1. Morris et al.
    Rats that received infusion of AP5 into the hippocampus were deficient in performing a spatial memeory task in Morris water maze.
-   #### limitations: 
+
+#### limitations:
+
    Target of AP5 infusion is not restricted to the hippocampus. It may also impair the spatial-memory-related ability of other neocortical regions.
 2. Mice with the knockout of a gene encoding a downstream component of activated NMDRs display impaired LTP in CA1 and a deficit in spatial learning.
-   #### limitations:
+
+#### limitations:
+
    Genes are deleted in all cells. The impairement in spatial memory may result from developmental defects.
 
 ## Method
 
 ### 1. Cre/loxP CA1-specific NMDAR1 knockout
+
 Modify the gene knockout method → Exploit the Cre/loxP recombination system (derived from phage P1) → The gene deletion can be restricted to CA1 pyramidal cells
 Gene deleted: NMDAR1 gene (encode the essential subunit for NMDAR)
 
 (Traditional NMDAR1 KO mice produced by conventional gene knockout: perinatal lethality)
+
 #### Step
+
 1. Insert 2 loxP sequences into the NMDAR1 gene:
    - the first loxP sequence: placed in the intron that lies between exon 10 and 11
    - the second loxP sequence: placed in the downstream region of the 3' end of the NMDAR1 gene
@@ -48,7 +61,9 @@ Gene deleted: NMDAR1 gene (encode the essential subunit for NMDAR)
 4. Cross fNR1 mice with T29-1 = Cre/+ (heterozygous Cre) transgene mice
 5. Offspring: CA1-KO (Cre/+, fNR1/fNR1) mice, ...
    Homozygous fNR1 (+/+, fNR1/fNR1) mice were used as experimental controls
+
 #### Confirmation: knockout is restricted in CA1
+
 - Histochemical examination → Brains from CA1-KO mice did not exhibit any obvious abnormalities <span style="background:#fdbfff">(Figure 2)</span>
 - Examine the neuronal patterns of the "whisker-to-barrels" system (the formation of which is dependent on NMDAR function at brainstem, thalamus and neocortex) → CA1-KO mice exhibited well-formed patterns <span style="background:#fdbfff">(Figure 2G, H, I)</span>
   e.g. in brainstem trigeminal nucleus, ventrobasal nucleus of the thalamus, primary somatosensory neocortex
@@ -78,6 +93,7 @@ Stimulation of Schaffer collateral/commissural (Scc) afferents in acute slices c
     presynaptic terminal operate normally in CA1
 
 ### 3. Electrophysiology, synaptic plasticity: impaired plasticity in mutant mice CA1
+
  <span style="background:#fdbfff">(Figure 6)</span>
 Tetanic stimulation normally induces LTP in CA1.
 - In CA1-KO mice, LTP, LTD or short-term potentiation cannot be induced.
@@ -87,25 +103,34 @@ However:
 - Control group LTP remains normal.
 
 ### 4. Behaviourral experiment, spatical memory
+
 - The suitness of apparatus is tested using homozygous αCaMKII knockout mice.
 
 CA1-KO mice: 
 1. Longer time required to find routes
 2. Longer escape latency over training blocks
 3. Latency reduced after 12 blocks (veryfied by ANOVA) -- However, could be relying on nonspatial strategies -- Examined by transfer test (TT)
+
 #### TT:
+
 - The platform is absent and the mice swim for 60s in the pool
+
 ##### Time spending in searching for platform in the location where they were trained to find it (target quadrat)
+
 CA1-KO mice: No preference for the target quadrat
 Control mice: TT1, 2, 3 -- N, Y, Y
+
 ##### Crossing: 
+
 - The number of times the mice cross the correct location of the platform.
 CA1-KO mice: Significantly fewer than control mice during TT3
+
 ##### Platform search
+
 CA1-KO mice: Significantly fewer average time searching in the exact location of the platform
 
 #### Landmark test:
+
 - To assess whether the result was not due to sensorimotor or motivational deficit
 - Require the mice to find a slightly submerged platform whose location is marked by a large proximal cue
 CA1-KO mice: Learned the task at a slightly slower rate but reached the same level of optimal performance as the control mice  <span style="background:#fdbfff">(Figure 7B)</span>
-

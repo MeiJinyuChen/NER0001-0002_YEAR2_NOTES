@@ -6,7 +6,6 @@ format: Five-option single-best-answer questions
 
 # ANAT0003 Introduction — 20 MCQs
 
-
 1. François Magendie’s experiments established that the dorsal and ventral spinal nerve roots are associated with which functions, respectively?
 
    a. Motor and sensory  

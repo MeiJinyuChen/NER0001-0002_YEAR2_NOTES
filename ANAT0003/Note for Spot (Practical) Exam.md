@@ -1,5 +1,6 @@
 
 # Cranial Nerves
+
 | Cranial Nerves                                                        |
 | --------------------------------------------------------------------- |
 | Olfactory (I)                                                         |
@@ -10,7 +11,10 @@
 | Facial (VII)                                                          |
 | Glossophayrngeal/Vagus (IX/X) (Rootlets exiting lateral edge medulla) |
 | Hypoglossal (XII) (Rootlets exiting next to pyramid)                  |
-![[Pasted image 20260528185811.png|500]]![[Pasted image 20260528190002.png|625]]
+
+<img src="assets/Pasted%20image%2020260528185811.png" width="500" alt="Pasted image 20260528185811">
+
+<img src="assets/Pasted%20image%2020260528190002.png" width="625" alt="Pasted image 20260528190002">
 
 | Structure                          | Main Function                                                                                                                                                                             | Primary Afferent Connection (Input)                                                                        | Primary Efferent Connection (Output)                                                                              |
 | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -34,11 +38,10 @@ Cranial parasympathetic fibres:
   Vagus (X)
 - Reach ganglia located in organs of the head, thorax and abdomen
 
-
-
 ---
 
 # Blood Vessels
+
 | Blood Vessels             |
 | ------------------------- |
 | Posterior cerebral artery |
@@ -46,9 +49,8 @@ Cranial parasympathetic fibres:
 | Anterior cerebral artery  |
 | Basiliar Artery           |
 
-| ![[Pasted image 20260528222328.png]] | ![[Pasted image 20260528222332.png\|1875]] |
+| <img src="assets/Pasted%20image%2020260528222328.png" alt="Pasted image 20260528222328"> | <img src="assets/Pasted%20image%2020260528222332.png" width="1875" alt="Pasted image 20260528222332"> |
 | ------------------------------------ | ------------------------------------------ |
-
 
 | Vessel                              | Main Function / Clinical Importance                                                                                                                                                                   | Major Source ("Afferent")         | Major Territories Supplied ("Efferent")                                                                                                                                                  |
 | ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -57,108 +59,85 @@ Cranial parasympathetic fibres:
 | **Posterior Cerebral Artery (PCA)** | Supplies<font color="#245bdb"> occipital and medial temporal structures</font>. Important for vision and memory.                                                                                      | Terminal branch of basilar artery | Occipital lobe, calcarine cortex (V1), inferior temporal cortex, parahippocampal gyrus, retrosplenial cortex, parts of thalamus and midbrain.                                            |
 | **Basilar Artery**                  | Main arterial supply to <font color="#245bdb">brainstem and cerebellum</font>. Formed by fusion of vertebral arteries. Gives rise to PCA.                                                             | Left and right vertebral arteries | Pons, midbrain, cerebellum (via cerebellar branches), superior colliculus, inferior colliculus, cerebral aqueduct region, cranial nerve nuclei, then bifurcates into left and right PCA. |
 
-
-| ACA     | ![[Pasted image 20260531172202.png\|368]] |
+| ACA     | <img src="assets/Pasted%20image%2020260531172202.png" width="368" alt="Pasted image 20260531172202"> |
 | ------- | ----------------------------------------- |
-| **MCA** | ![[Pasted image 20260531172250.png\|400]] |
-| **PCA** | ![[Pasted image 20260531172539.png\|400]] |
-
-
-
-
-
-
+| **MCA** | <img src="assets/Pasted%20image%2020260531172250.png" width="400" alt="Pasted image 20260531172250"> |
+| **PCA** | <img src="assets/Pasted%20image%2020260531172539.png" width="400" alt="Pasted image 20260531172539"> |
 
 ---
 
 # Cortical Regions
-
 
 supplementary motor cortex
 primary motor cortex
 central sulcus
 primary somatosensory cortex
 
-![[Pasted image 20260528231521.png|425]]
-
-
+<img src="assets/Pasted%20image%2020260528231521.png" width="425" alt="Pasted image 20260528231521">
 
 Supramarginal gyrus
 Angular gyrus
 
-| ![[Pasted image 20260529154151.png\|300]]\| | ![[Pasted image 20260529153847.png\|350]] |
+| <img src="assets/Pasted%20image%2020260529154151.png" width="300" alt="Pasted image 20260529154151">\| | <img src="assets/Pasted%20image%2020260529153847.png" width="350" alt="Pasted image 20260529153847"> |
 | -------------------------------------- | ----------------------------------------- |
 
-
-
 Claustrum
-![[Pasted image 20260528232732.png]]
 
+<img src="assets/Pasted%20image%2020260528232732.png" alt="Pasted image 20260528232732">
 
 frontal eye field
 
-| ![[Pasted image 20260531183316.png\|275]] | ![[Pasted image 20260531183341.png\|325]] |
+| <img src="assets/Pasted%20image%2020260531183316.png" width="275" alt="Pasted image 20260531183316"> | <img src="assets/Pasted%20image%2020260531183341.png" width="325" alt="Pasted image 20260531183341"> |
 | ----------------------------------------- | ------------------------------------ |
-
 
 Insula
 
-| ![[Pasted image 20260529105401.png\|500]] | ![[Pasted image 20260529105839.png\|400]] |
+| <img src="assets/Pasted%20image%2020260529105401.png" width="500" alt="Pasted image 20260529105401"> | <img src="assets/Pasted%20image%2020260529105839.png" width="400" alt="Pasted image 20260529105839"> |
 | ------------------------------------ | ------------------------------------ |
-
 
 Cingulate gyrus
 
-| ![[Pasted image 20260529155158.png\|375]] | ![[Pasted image 20260529155215.png\|359]] |
+| <img src="assets/Pasted%20image%2020260529155158.png" width="375" alt="Pasted image 20260529155158"> | <img src="assets/Pasted%20image%2020260529155215.png" width="359" alt="Pasted image 20260529155215"> |
 | ----------------------------------------- | ------------------------------------ |
-
 
 Retrosplenial cortex
 - Behind the splenium of the corpus callosum
 - Highlighted in green
 
-| ![[Pasted image 20260529160354.png\|400]] | ![[Pasted image 20260529160314.png\|350]] |
+| <img src="assets/Pasted%20image%2020260529160354.png" width="400" alt="Pasted image 20260529160354"> | <img src="assets/Pasted%20image%2020260529160314.png" width="350" alt="Pasted image 20260529160314"> |
 | ------------------------------------ | ----------------------------------------- |
-
-
-
 
 Broca's area
 
-| ![[Pasted image 20260529111237.png\|225]] | ![[Pasted image 20260529110125.png\|325]] |
+| <img src="assets/Pasted%20image%2020260529111237.png" width="225" alt="Pasted image 20260529111237"> | <img src="assets/Pasted%20image%2020260529110125.png" width="325" alt="Pasted image 20260529110125"> |
 | ------------------------------------ | ----------------------------------------- |
 
 primary visual cortex
 
-| ![[Pasted image 20260529112117.png\|450]]\| | ![[Pasted image 20260529112106.png\|350]] |
+| <img src="assets/Pasted%20image%2020260529112117.png" width="450" alt="Pasted image 20260529112117">\| | <img src="assets/Pasted%20image%2020260529112106.png" width="350" alt="Pasted image 20260529112106"> |
 | -------------------------------------- | ----------------------------------------- |
-
-
 
 orbitofrontal cortex
 dorsolateral prefrontal cortex
-![[Pasted image 20260529112324.png]]
 
-
+<img src="assets/Pasted%20image%2020260529112324.png" alt="Pasted image 20260529112324">
 
 primary auditory cortex 
 Wernicke's area
 
-| ![[Pasted image 20260529113836.png\|425]] | ![[Pasted image 20260529113810.png\|375]] |
+| <img src="assets/Pasted%20image%2020260529113836.png" width="425" alt="Pasted image 20260529113836"> | <img src="assets/Pasted%20image%2020260529113810.png" width="375" alt="Pasted image 20260529113810"> |
 | ------------------------------------ | ----------------------------------------- |
-
-
 
 parahippocampal gyrus
 
-| ![[Pasted image 20260529115834.png\|375]] | ![[Pasted image 20260529120405.png\|275]] |
+| <img src="assets/Pasted%20image%2020260529115834.png" width="375" alt="Pasted image 20260529115834"> | <img src="assets/Pasted%20image%2020260529120405.png" width="275" alt="Pasted image 20260529120405"> |
 | ----------------------------------------- | ----------------------------------------- |
-| ![[Pasted image 20260529120755.png\|350]]      |                                           |
-![[Pasted image 20260529115940.png]]
+| <img src="assets/Pasted%20image%2020260529120755.png" width="350" alt="Pasted image 20260529120755">      |                                           |
+
+<img src="assets/Pasted%20image%2020260529115940.png" alt="Pasted image 20260529115940">
 
 - Entorhinal cortex = Part of the parahippocampal gyrus
   (most anterior of the parahippocampal gyrus)
-
 
 | Cortical Region                                | Main Function(s)                                                                                                                             | Primary Afferents                                                                                                                                                                 | Primary Efferents                                                                                                                 |
 | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -180,62 +159,57 @@ parahippocampal gyrus
 | **Anterior Cingulate Cortex (ACC)**            | Autonomic control; pain processing; conflict/error monitoring                                                                                | OFC, basal ganglia, insula, anterior thalamus                                                                                                                                     | DLPFC; motor cortex; SMA; frontal eye fields; spinal cord                                                                         |
 | **Retrosplenial Cortex (RSC)**                 | Navigation; episodic memory                                                                                                                  | Anterior thalamus; hippocampal/parahippocampal circuits                                                                                                                           | hippocampal/parietal networks                                                                                                     |
 
-
 ---
 
 # Subcortical Region
-
 
 Septum pellucidum
 Caudate nucleus
 Putamen
 Nucleus accumbens
-![[Pasted image 20260528225954.png]]
 
-![[Pasted image 20260529232136.png]]
-![[Pasted image 20260529232343.png]]
-![[Pasted image 20260531222822.png|349]]
+<img src="assets/Pasted%20image%2020260528225954.png" alt="Pasted image 20260528225954">
 
+<img src="assets/Pasted%20image%2020260529232136.png" alt="Pasted image 20260529232136">
 
+<img src="assets/Pasted%20image%2020260529232343.png" alt="Pasted image 20260529232343">
+
+<img src="assets/Pasted%20image%2020260531222822.png" width="349" alt="Pasted image 20260531222822">
 
 Hippocampus
 Mammilary body
 
-| ![[Pasted image 20260530152344.png\|400]] | ![[Pasted image 20260530152606.png\|300]] |
+| <img src="assets/Pasted%20image%2020260530152344.png" width="400" alt="Pasted image 20260530152344"> | <img src="assets/Pasted%20image%2020260530152606.png" width="300" alt="Pasted image 20260530152606"> |
 | ----------------------------------------- | ----------------------------------------- |
-![[Pasted image 20260530153548.png|675]]
-![[Pasted image 20260530153659.png]]
 
+<img src="assets/Pasted%20image%2020260530153548.png" width="675" alt="Pasted image 20260530153548">
 
+<img src="assets/Pasted%20image%2020260530153659.png" alt="Pasted image 20260530153659">
 
 Thalamus
-![[Pasted image 20260530160047.png|625]]
-![[Pasted image 20260530160200.png]]
-![[Pasted image 20260530160218.png]]
 
+<img src="assets/Pasted%20image%2020260530160047.png" width="625" alt="Pasted image 20260530160047">
 
+<img src="assets/Pasted%20image%2020260530160200.png" alt="Pasted image 20260530160200">
+
+<img src="assets/Pasted%20image%2020260530160218.png" alt="Pasted image 20260530160218">
 
 Pineal gland
-![[Pasted image 20260530160612.png|425]]
 
+<img src="assets/Pasted%20image%2020260530160612.png" width="425" alt="Pasted image 20260530160612">
 
 Septum pellucidum
-![[Pasted image 20260530171421.png|350]]
 
-
-
-
+<img src="assets/Pasted%20image%2020260530171421.png" width="350" alt="Pasted image 20260530171421">
 
 ----
-
 
 # Sulcus
 
 Calcarine sulcus
 
-| ![[Pasted image 20260528224007.png\|325]] | ![[Pasted image 20260528224641.png\|325]] |
+| <img src="assets/Pasted%20image%2020260528224007.png" width="325" alt="Pasted image 20260528224007"> | <img src="assets/Pasted%20image%2020260528224641.png" width="325" alt="Pasted image 20260528224641"> |
 | ----------------------------------------- | ------------------------------------ |
-
 
 | Sulcus/Fissure                 | Anatomical Role                                                                                 | Adjacent Cortex                                                                                  | Main Function                                                                        | Primary Afferents                                                                                                                                 | Primary Efferents                                                                                                                                 |
 | ------------------------------ | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -243,53 +217,42 @@ Calcarine sulcus
 | **Intraparietal Sulcus (IPS)** | Divides superior parietal lobule from inferior parietal lobule.                                 | Superior parietal lobule, supramarginal gyrus, angular gyrus.                                    | Visuospatial processing, attention, sensorimotor integration, eye-hand coordination. | Visual information from dorsal visual stream (occipital cortex); somatosensory input from parietal cortex.                                        | Projects to frontal eye fields, premotor cortex, supplementary motor area, and posterior parietal association regions.                            |
 | **Calcarine Fissure (Sulcus)** | Medial occipital lobe landmark. Primary visual cortex (V1) lies on its banks.                   | Primary Visual Cortex (V1, BA17); cuneus superiorly and lingual gyrus inferiorly.                | First cortical stage of visual processing; retinotopic map of visual field.          | Lateral Geniculate Nucleus (LGN) via optic radiations.                                                                                            | Extrastriate visual cortex (V2, V3, dorsal and ventral visual streams).                                                                           |
 
-
-
-
 ----
 
 # White Matter Tracts
 
-
 Corpus callosum
 
-| ![[Pasted image 20260529161038.png\|375]] | ![[Pasted image 20260529161129.png\|375]] |
+| <img src="assets/Pasted%20image%2020260529161038.png" width="375" alt="Pasted image 20260529161038"> | <img src="assets/Pasted%20image%2020260529161129.png" width="375" alt="Pasted image 20260529161129"> |
 | ----------------------------------------- | ----------------------------------------- |
-| ![[Pasted image 20260529161555.png\|330]] | ![[Pasted image 20260531224012.png\|375]] |
-
+| <img src="assets/Pasted%20image%2020260529161555.png" width="330" alt="Pasted image 20260529161555"> | <img src="assets/Pasted%20image%2020260531224012.png" width="375" alt="Pasted image 20260531224012"> |
 
 Anterior commissure
 Posterior commissure
-![[Pasted image 20260529162553.png\|699]]
 
-| ![[Pasted image 20260529163235.png\|325]] | ![[Pasted image 20260529163551.png\|300]]\| |
+<img src="assets/Pasted%20image%2020260529162553.png" width="699" alt="Pasted image 20260529162553">
+
+| <img src="assets/Pasted%20image%2020260529163235.png" width="325" alt="Pasted image 20260529163235"> | <img src="assets/Pasted%20image%2020260529163551.png" width="300" alt="Pasted image 20260529163551">\| |
 | ----------------------------------------- | -------------------------------------- |
-
-
-
 
 Internal capsule
 External capsule
 
-| ![[Pasted image 20260529225248.png\|325]] | ![[Pasted image 20260529225121.png\|375]] |
+| <img src="assets/Pasted%20image%2020260529225248.png" width="325" alt="Pasted image 20260529225248"> | <img src="assets/Pasted%20image%2020260529225121.png" width="375" alt="Pasted image 20260529225121"> |
 | ----------------------------------------- | ----------------------------------------- |
-| ![[Pasted image 20260529225337.png\|350]] |                                           |
-
-
+| <img src="assets/Pasted%20image%2020260529225337.png" width="350" alt="Pasted image 20260529225337"> |                                           |
 
 Fornix
 
-| ![[Pasted image 20260529162553.png]] | ![[Pasted image 20260529230910.png\|1125]] |
+| <img src="assets/Pasted%20image%2020260529162553.png" alt="Pasted image 20260529162553"> | <img src="assets/Pasted%20image%2020260529230910.png" width="1125" alt="Pasted image 20260529230910"> |
 | ------------------------------------ | ----------------------------------------- |
-![[Pasted image 20260529231154.png]]
 
-
+<img src="assets/Pasted%20image%2020260529231154.png" alt="Pasted image 20260529231154">
 
 Optic radiation
 
-| ![[Pasted image 20260529231745.png\|400]] | ![[Pasted image 20260529231903.png\|275]] |
+| <img src="assets/Pasted%20image%2020260529231745.png" width="400" alt="Pasted image 20260529231745"> | <img src="assets/Pasted%20image%2020260529231903.png" width="275" alt="Pasted image 20260529231903"> |
 | ------------------------------------ | ----------------------------------------- |
-
 
 | Structure                             | Main Function                                                                                                                                                                               | Primary Afferent Connections (Inputs)                                                                                             | Primary Efferent Connections (Outputs)                                                                                                                                 |
 | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -305,59 +268,47 @@ Optic radiation
 | **Fornix**                            | Principal <font color="#245bdb">output pathway of the hippocampal formation</font>; critical for <font color="#245bdb">episodic memory and limbic circuitry</font>.                         | <font color="#245bdb">Hippocampus</font> and <font color="#245bdb">subiculum</font>.                                              | <font color="#245bdb">Mammillary bodies</font> (major target), septal area, hypothalamic structures. Forms part of the Papez circuit. (hippocampal anatomical context) |
 | **Optic Radiation**                   | Carries visual information from thalamus to primary visual cortex.                                                                                                                          | Lateral geniculate nucleus (LGN) of the thalamus.                                                                                 | Primary visual cortex (V1) around the calcarine sulcus. Retrolenticular internal capsule contains these fibres.                                                        |
 
-
-
-
 ----
-
 
 # Brainstem
 
 Superior colliculus
 Inferior colliculus
 
-| ![[Pasted image 20260530171905.png\|250]] | ![[Pasted image 20260530172010.png\|325]] |
+| <img src="assets/Pasted%20image%2020260530171905.png" width="250" alt="Pasted image 20260530171905"> | <img src="assets/Pasted%20image%2020260530172010.png" width="325" alt="Pasted image 20260530172010"> |
 | ----------------------------------------- | ----------------------------------------- |
 
-
 Substantia nigra
-![[Pasted image 20260530172723.png]]
 
+<img src="assets/Pasted%20image%2020260530172723.png" alt="Pasted image 20260530172723">
 
 Pons
-![[Pasted image 20260530173138.png|225]]
-![[Pasted image 20260530185219.png]]
-![[Pasted image 20260530185237.png]]
 
+<img src="assets/Pasted%20image%2020260530173138.png" width="225" alt="Pasted image 20260530173138">
+
+<img src="assets/Pasted%20image%2020260530185219.png" alt="Pasted image 20260530185219">
+
+<img src="assets/Pasted%20image%2020260530185237.png" alt="Pasted image 20260530185237">
 
 Medulla:
 Pyramid
 Inferior olivary nucleus
 
-
-| **Caudal**  | ![[Pasted image 20260530185753.png]] |
+| **Caudal**  | <img src="assets/Pasted%20image%2020260530185753.png" alt="Pasted image 20260530185753"> |
 | ----------- | ------------------------------------ |
-| **Mid**     | ![[Pasted image 20260530185806.png]] |
-| **Rostral** | ![[Pasted image 20260530185615.png]] |
-
-
-
+| **Mid**     | <img src="assets/Pasted%20image%2020260530185806.png" alt="Pasted image 20260530185806"> |
+| **Rostral** | <img src="assets/Pasted%20image%2020260530185615.png" alt="Pasted image 20260530185615"> |
 
 Cerebral aqueduct (in midbrain)
 
-| Inferior colliculus     | ![[Pasted image 20260530191211.png]] |
+| Inferior colliculus     | <img src="assets/Pasted%20image%2020260530191211.png" alt="Pasted image 20260530191211"> |
 | ----------------------- | ------------------------------------ |
-| **Superior colliculus** | ![[Pasted image 20260530191233.png]] |
-
-
-
+| **Superior colliculus** | <img src="assets/Pasted%20image%2020260530191233.png" alt="Pasted image 20260530191233"> |
 
 4th ventricle (in medulla and pons)
 
-| ![[Pasted image 20260530190524.png\|299]] | ![[Pasted image 20260530190802.png\|425]] |
+| <img src="assets/Pasted%20image%2020260530190524.png" width="299" alt="Pasted image 20260530190524"> | <img src="assets/Pasted%20image%2020260530190802.png" width="425" alt="Pasted image 20260530190802"> |
 | ------------------------------------ | ----------------------------------------- |
-
-
 
 | Structure                           | Main Function(s)                                                                                                                                                                                  | Primary Afferent Input(s)                                                                                                     | Primary Efferent Output(s)                                                                                                                                                         |
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -370,31 +321,25 @@ Cerebral aqueduct (in midbrain)
 | **Cerebral Aqueduct**               | Narrow CSF channel connecting ventricular compartments                                                                                                                                            | CSF from third ventricle                                                                                                      | CSF to fourth ventricle                                                                                                                                                            |
 | **Fourth Ventricle**                | CSF-containing ventricular chamber; route for CSF circulation in hindbrain                                                                                                                        | Receives CSF from cerebral aqueduct                                                                                           | CSF exits to subarachnoid space and continues to central canal                                                                                                                     |
 
-
-
-
-
 ----
 
-
 # Cerebellum
-
 
 Flocculonodular lobe
 spinocerebellum: vermis and paravermis
 pontocerebellum = lateral hemisphere
 
-![[Pasted image 20260530200507.png]]
+<img src="assets/Pasted%20image%2020260530200507.png" alt="Pasted image 20260530200507">
 
 Dentate nucleus
-![[Pasted image 20260530200927.png]]
 
-
+<img src="assets/Pasted%20image%2020260530200927.png" alt="Pasted image 20260530200927">
 
 Middle cerebellar peduncle
-![[Pasted image 20260530202325.png]]
-![[Pasted image 20260530202736.png|225]]
 
+<img src="assets/Pasted%20image%2020260530202325.png" alt="Pasted image 20260530202325">
+
+<img src="assets/Pasted%20image%2020260530202736.png" width="225" alt="Pasted image 20260530202736">
 
 | Structure                                      | Main Function                                                                                                                                       | Primary Afferent Inputs                                                                                             | Primary Efferent Outputs                                                                                                        |
 | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |

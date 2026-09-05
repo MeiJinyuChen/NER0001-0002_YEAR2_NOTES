@@ -1,10 +1,14 @@
 
 #### Method
+
 Simultaneous whole-cell recordings of the presynaptic  Ca<sup>2+</sup> current and postsynaptic EPSC in calyx of Held synapse (in rat brainstem slice preparation)
+
 #### Result
+
 Agonists of mGluRs suppressed a high voltage-acti- vated P/Q-type calcium conductance in the presynaptic terminal, thereby inhibiting transmitter release at this glutamatergic synapse.
 
 # 1. Central Question
+
 Metabotropic glutamate receptors were already known to inhibit NT release at mammalian central synapses, but the mechanism was unclear. Three possible mechanisms were considered:
 1. mGluRs suppress presynaptic Ca²⁺ channels.
 2. mGluRs enhance presynaptic K⁺ conductance, indirectly reducing Ca²⁺ entry.
@@ -13,6 +17,7 @@ Metabotropic glutamate receptors were already known to inhibit NT release at mam
 ---
 
 # 2. Experimental preparation and general method
+
 The authors prepared rat brainstem slices containing the **calyx of Held** synapse onto neurons of the **medial nucleus of the trapezoid body, MNTB**.  
 They performed **simultaneous whole-cell voltage-clamp recordings** from:
 - the presynaptic calyx terminal, to record Ca²⁺ or K⁺ currents;
@@ -24,6 +29,7 @@ They performed **simultaneous whole-cell voltage-clamp recordings** from:
 # 3. Figure 1 — Characterisation of presynaptic Ca²⁺ current
 
 ## Fig. 1A: Simultaneous recording of presynaptic Ca²⁺ current and postsynaptic EPSC
+
 **Method/process:**  
 - The presynaptic calyx was voltage-clamped. A depolarising voltage command (long depolarizing pulse) was applied to the presynaptic terminal to evoke a presynaptic Ca²⁺ current. 
 - The EPSC resulted from NT release in postsynaptic neuron was simultaneously recorded.  
@@ -32,12 +38,14 @@ They performed **simultaneous whole-cell voltage-clamp recordings** from:
 - This shows that Ca²⁺ influx into the calyx directly triggers glutamate release.
 
 ## Fig. 1B: Current–voltage relationship of presynaptic Ca²⁺ current
+
 **Method/process:**  
 The presynaptic terminal was held around –80 mV and stepped to different depolarised potentials.  
 **Outcome:**  
 Ca²⁺ current is activated at potentials positive to about –40 mV and peaked around –20 to –10 mV. This identifies it as a **high voltage-activated (HVA) Ca²⁺ current**.
 
 ## Fig. 1C: Pharmacological identification of Ca²⁺ channel subtype
+
 **Method/process:**  
 The authors applied 200 mM **ω-agatoxin IVA** (a blocker of P/Q-type Ca²⁺ channels), then applied 100 μM Cd²⁺ to block remaining Ca²⁺ current.  
 **Outcome:**  
@@ -47,6 +55,7 @@ The authors applied 200 mM **ω-agatoxin IVA** (a blocker of P/Q-type Ca²⁺ ch
 - ω-conotoxin GVIA (N-type Ca<sup>2+</sup> channel blocker) had little or no effect.
 
 ## Fig. 1D: Dependence of Ca²⁺ current on extracellular Ca²⁺ concentration
+
 **Method/process:**  
 1. Reduced<font color="#000000"> [Ca<sup>2+</sup>]</font><sub>o</sub> or increased<font color="#000000"> [Mg<sup>2+</sup>]</font><sub>o</sub>
 2. Measured the amplitude of presynaptic Ca²⁺ currents.  
@@ -74,6 +83,7 @@ The authors applied 50-100 μM **L-AP4**, an agonist of group III mGluRs, especi
 - One or more of mGluR subtypes 4,6,7,8 may be involved in the inhibition effect.
 
 ## Fig. 2B: Effect of L-AP4 on presynaptic K⁺ current
+
 **Method/process:**  
 The authors recorded outward K⁺ currents from the presynaptic terminal in the presence of TTX to block Na⁺ channels. Then they applied L-AP4.  
 **Outcome:**  
@@ -86,6 +96,7 @@ L-AP4 does **not** inhibit transmitter release by increasing or modifying presyn
 # 5. Figure 3 — Linking Ca²⁺ current suppression to reduced transmitter release
 
 ## Fig. 3A: Comparison between reduced extracellular Ca²⁺ and L-AP4
+
 **Method/process:**  
 In paired calyx–MNTB recordings, the authors compared two manipulations:
 1. reducing extracellular Ca²⁺ by replacing Ca²⁺ with Mg²⁺;
@@ -95,12 +106,14 @@ In paired calyx–MNTB recordings, the authors compared two manipulations:
     Both reduced extracellular Ca²⁺ and L-AP4 decreased presynaptic Ca²⁺ current and postsynaptic EPSC.
     
 ## Fig. 3B: Time course of Ca²⁺ current and EPSC changes
+
 **Method/process:**  
 The authors plotted Ca²⁺ current amplitude and EPSC amplitude over time during reduced Ca²⁺ and during L-AP4 application.  
 **Outcome:**  
 When Ca²⁺ current decreased, EPSC also decreased. When Ca²⁺ current recovered, EPSC recovered. L-AP4 produced a reversible suppression.
 
 ## Fig. 3C: Ca²⁺ current–EPSC relationship
+
 **Method/process:**  
 The authors plotted EPSC amplitude against presynaptic Ca²⁺ current amplitude on double-logarithmic axes. They compared data from reduced extracellular Ca²⁺ with data from L-AP4 application.  
 **Outcome:**  
